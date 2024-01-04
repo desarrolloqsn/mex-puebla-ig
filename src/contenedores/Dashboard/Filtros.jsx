@@ -538,7 +538,7 @@ const disabledDate = current => {
 
   return (
     <div>
-    <div className='nombreDashboard'>Análisis - VEN - IG {modeloSinEspacios ? `- ${modeloSinEspacios}` : null}</div>
+    <div className='nombreDashboard'>Análisis -Mexico Puebla- IG {modeloSinEspacios ? `- ${modeloSinEspacios}` : null}</div>
     <div className='contenedor-filtros'>
      <div className='boton-informe'>
      <Tooltip placement="top" title='Generar informe' >
